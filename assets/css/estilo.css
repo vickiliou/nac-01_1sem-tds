@@ -9,8 +9,15 @@ body{
   color: white;
 }
 
+/* LINKS*/
 a{
   text-decoration: none;
   color: blue;
   font-weight: bolder;
+}
+
+/* CONTAINER */
+.container{
+  margin-left: 10%;
+  margin-right: 10%
 }
