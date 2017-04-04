@@ -29,3 +29,11 @@ a{
   font-size: 40px;
   position: relative;
 }
+
+/* LISTA */
+.container li{
+  list-style-type: none;
+  display: inline;
+  padding-right: 5px;
+  padding-left: 5px;
+}
