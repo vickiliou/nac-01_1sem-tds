@@ -1,1 +1,10 @@
 @charset "UTF-8";
+
+/* BODY */
+body{
+  background-color: red;
+  font-family: Verdana, sans-serif;
+  background: linear-gradient(black 20%, red 90%);
+  background-attachment: fixed;
+  color: white;
+}
