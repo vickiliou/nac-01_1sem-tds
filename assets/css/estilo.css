@@ -52,3 +52,10 @@ img{
 figcaption{
   position: absolute;
 }
+
+/* RODAPE */
+.footer{
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+}
