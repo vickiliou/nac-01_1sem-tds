@@ -37,3 +37,13 @@ a{
   padding-right: 5px;
   padding-left: 5px;
 }
+
+/* IMAGENS */
+img{
+  display: inline-block;
+  border: solid 2px black;
+  box-shadow: 2px 2px 5px black;
+  overflow: auto;
+  padding: 5px 5px 150px 5px;
+  position: relative;
+}
