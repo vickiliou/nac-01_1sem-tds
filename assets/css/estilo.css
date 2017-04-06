@@ -23,7 +23,7 @@ a{
   margin-right: 10%
 }
 
-/* CABECALHO */
+/* CABEÇALHO */
 .cabecalho{
   background-color: rgba(0, 0, 0, 0.5);
   padding: 40px;
@@ -35,12 +35,12 @@ a{
 .container li{
   list-style-type: none;
   display: inline;
-  padding-right: 5px;
-  padding-left: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 /* IMAGENS */
-img{
+figure {
   display: inline-block;
   border: solid 2px black;
   box-shadow: 2px 2px 5px black;
@@ -55,7 +55,7 @@ figcaption{
 }
 
 /* RODAPE */
-.footer{
+.rodape{
   padding: 50px;
   background-color: rgba(0, 0, 0, 0.5);
   font-size: 30px;
@@ -71,3 +71,5 @@ figcaption{
 .palavra{
   font-weight: bold;
 }
+
+/**** LINK DO MEU REPOSITÓRIO GIT:https://github.com/vickiliou/nac-01_1sem-tds.git ****/
